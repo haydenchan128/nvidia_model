@@ -2,7 +2,7 @@
 
 The project will take in an image of an sea animal and it can detect more than 20 different types of sea animals. It will help people detect what type of sea animal they saw when snorkeling in the ocean. 
 
-![image of an jellyfish]([Imgur](https://imgur.com/04KbFmd))
+![image of an jellyfish]([Imgur](https://imgur.com/sEnY0qg))
 
 ## The Algorithm
 
