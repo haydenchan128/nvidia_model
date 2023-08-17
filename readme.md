@@ -6,7 +6,7 @@ The project will take in an image of an sea animal and it can detect more than 2
 
 ## The Algorithm
 
-This project is a resnet 50 model trained using this dataset https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste. When an image is provided to the model, the algorithm takes in the image and runs it through the model to determine what type of sea animal it is. 
+This project is a resnet 50 model trained using this dataset with more than 20 different sea animals. When an image is provided to the model, the algorithm takes in the image and runs it through the model to determine what type of sea animal it is. 
 
 ## Training the model
 
