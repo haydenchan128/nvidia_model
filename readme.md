@@ -1,12 +1,12 @@
 # Sea Animal Recognition
 
-The project will take in an image of an sea animal and it can detect more than 20 different types of sea animals. It will help people detect what type of sea animal they saw when snorkeling in the ocean. 
+The project can detect more than 20 different types of sea animals. This project will help make it easier for people to more accurately recognize what type of sea animal they took a picture of. 
 
 ![image of an jellyfish](https://i.imgur.com/sEnY0qg.jpg[/img])
 
 ## The Algorithm
 
-This project is a resnet 50 model trained using this dataset with more than 20 different sea animals. When an image is provided to the model, the algorithm takes in the image and runs it through the model to determine what type of sea animal it is. 
+The algorithm will try and accurately detect what type of sea animal is put into the algorithm. The project first takes in many pictures of different sea animals and trains a resnet 50 model. After it is finished training, an image is put into model and will be able to detect what type of sea animal the image is. 
 
 ## Training the model
 
