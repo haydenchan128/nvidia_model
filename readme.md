@@ -29,4 +29,4 @@ The algorithm will try and accurately detect what type of sea animal is put into
 5. To classify an image, replace image with the image you want to run through the model and output with what file you want output the image to in this code: "imagenet.py --model=$NET/resnet50.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt image output", then run the code. 
 6. Open the output file to see the result. 
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/fsqa9QWX2Qg)
